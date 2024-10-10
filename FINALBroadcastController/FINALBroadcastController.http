@@ -1,0 +1,6 @@
+@FINALBroadcastController_HostAddress = http://localhost:5033
+
+GET {{FINALBroadcastController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
